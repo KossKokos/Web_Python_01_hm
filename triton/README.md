@@ -15,6 +15,8 @@ TRITON is a personal assistant for:
 ### Requirements
 
 - Python 3.6 or newer
+- rich==^13.7.0
+- termcolor==^2.4.0
 
 ### Contributing and Improvements
 
